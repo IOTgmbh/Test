@@ -1,0 +1,10 @@
+RFID Antenne 		IN 900 		//first Byte
+RFID Antenne		OU 900 		//first Byte
+
+Taster Signallampe	IN 800.0 	//first Bit
+signallampe ansteuerung OU 800 		//first Byte
+
+Druck			IN 803		//first Byte
+Druckschalter		in 804.0	//seccond Byte, first Bit
+
+Lichtschranke		IN 802.0	//first Bit
